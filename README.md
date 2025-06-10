@@ -68,7 +68,7 @@ A análise aprofundada do catálogo da Netflix revelou padrões e tendências cr
 * **Gêneros Predominantes:**
     A análise dos **"Top 10 Gêneros de Filmes"** (visível em: ![Top Gêneros Filmes](imagens/top_10_generos_filmes.png)) e **"Top 10 Gêneros de Séries"** (visível em: ![Top Gêneros Séries](imagens/top_10_generos_series.png)) aponta para a dominância de categorias como [**LISTE OS 2-3 GÊNEROS MAIS COMUNS PARA FILMES E SÉRIES, ex: "Drama", "Comédia" e "Documentário"**]. Isso sugere que esses são gêneros com alta demanda ou nos quais a Netflix concentra grande parte de sua produção.
 * **Duração de Filmes:**
-    O gráfico de **"Distribuição da Duração de Filmes"** (disponível em: ![Duração de Filmes](imagens/distribuicao_duracao_filmes.png)) mostra que a maioria dos filmes possui uma duração entre [**INSIRA A FAIXA DE MINUTOS MAIS COMUM, ex: "90 e 120 minutos"**], um padrão típico para longas-metragens.
+    O gráfico de **"Distribuição da Duração de Filmes"**  mostra que a maioria dos filmes possui uma duração entre [**INSIRA A FAIXA DE MINUTOS MAIS COMUM, ex: "90 e 120 minutos"**], um padrão típico para longas-metragens.
 * **Número de Temporadas de Séries:**
     A **"Distribuição do Número de Temporadas de Séries"** (ilustrada por: ![Número de Temporadas de Séries](imagens/distribuicao_num_temporadas_series.png)) indica uma forte preferência por séries de 1 temporada. Isso pode refletir uma estratégia de "minisséries" ou de testar o sucesso inicial antes de comissionar temporadas adicionais.
 
