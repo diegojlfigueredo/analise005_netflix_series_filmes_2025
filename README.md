@@ -96,9 +96,4 @@ Contribuições são muito bem-vindas! Se você tiver sugestões de melhorias, c
 
 ## 📧 Contato
 
-* **[Diego Juliano Lima Figueredo]**
 * **LinkedIn:** https://www.linkedin.com/in/diego-juliano-lima-figueredo-7112816a/
-
-## 📜 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) (se você for adicionar um arquivo LICENSE.md) para detalhes. Caso contrário, remova esta linha ou adapte-a.
